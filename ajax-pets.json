@@ -42,7 +42,7 @@
     },
     {
       "name": "Spike",
-      "picture": "https://pbs.twimg.com/profile_images/1046968391389589507/_0r5bQLl_400x400.jpg"
+      "picture": "https://pbs.twimg.com/profile_images/1046968391389589507/_0r5bQLl_400x400.jpg",
       "species" : "dog",
       "price" : 40,
       "foods": {
