@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mad Libs</title>
+</head>
+	<body data-gr-c-s-loaded="true">
+ 
+ 		<h1>Mad Libs</h1>
+ 
+		 <ul>
+		  <li>Noun: <input type="text" id="noun">
+		  </li><li>Adjective: <input type="text" id="adjective">
+		  </li><li>Someone's Name: <input type="text" id="name">
+		 </li></ul>
+		   
+		 <button id="lib-button">Lib it!</button><div id="story"></div>
+		  <script>
+		  	localStorage.clear();
+		  	var arr = new Array();
+			function libIt() {
+			  var storyDiv = document.getElementById("story");
+			  var name = document.getElementById("name").value;
+			  var adjective = document.getElementById("adjective").value;
+			  var noun = document.getElementById("noun").value;
+			  var storyTold = name + " married a " + adjective + " " + noun + "... So weird!";
+			  arr.push(storyTold);
+			  storyDiv.innerHTML = storyTold;
+			}
+
+				var libButton = document.getElementById('lib-button');
+				libButton.addEventListener('click', libIt);
+			function tellAll() {
+				//TO DO		
+			}
+			</script>
+
+ 
+</body>
+</html>
