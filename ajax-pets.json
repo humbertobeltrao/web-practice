@@ -2,7 +2,7 @@
   "pets" : [
     {
       "name": "Meowsy",
-      "picture": "https://catscornervet.com/wp-content/uploads/2016/04/kitty-1.png",
+      "picture": "https://friendsofthepound.com/wp-content/uploads/2017/02/foster-250x250.jpg",
       "species" : "cat",
       "price" : 20,
       "foods": {
@@ -12,7 +12,7 @@
     },
     {
       "name": "Barky",
-      "picture": "https://www.guidedogsvictoria.com.au/wp-content/themes/default/static/img/puppy.png",
+      "picture": "https://assets.thespinoff.co.nz/1/2019/03/GettyImages-139720130-250x250.jpg",
       "species" : "dog",
       "price" : 30,
       "foods": {
@@ -22,7 +22,7 @@
     },
     {
       "name": "Purrpaws",
-      "picture": "https://www.petmd.com/sites/default/files/what-does-it-mean-when-cat-wags-tail.jpg",
+      "picture": "https://i.pinimg.com/474x/54/0d/66/540d664c084dfe50d815876cff5cc31d.jpg",
       "species" : "cat",
       "price" : 23,
       "foods": {
