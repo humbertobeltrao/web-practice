@@ -48,5 +48,9 @@
       "likes": ["bones"],
       "dislikes": ["vegetables"]
     }
+  },
+  {
+    "name": "The big",
+    "picture":"https://images8.alphacoders.com/506/506136.jpg"
   }
 ]
