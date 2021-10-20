@@ -20,6 +20,10 @@
     }
   },
   {
+    "name":"Big dog",
+    "picture":"https://i.pinimg.com/originals/99/28/73/9928737a3504c5fc8269377d8ba5a122.jpg"
+  },
+  {
     "name": "Purrpaws",
     "picture": "https://i.pinimg.com/474x/54/0d/66/540d664c084dfe50d815876cff5cc31d.jpg",
     "species" : "cat",
