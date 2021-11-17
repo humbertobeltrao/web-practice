@@ -51,6 +51,7 @@
   },
   {
     "name": "The big",
-    "picture":"https://images8.alphacoders.com/506/506136.jpg"
+    "picture":"https://images8.alphacoders.com/506/506136.jpg",
+    "price" : 19
   }
 ]
