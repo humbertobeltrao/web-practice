@@ -1,5 +1,10 @@
 [
   {
+    "name": "The big",
+    "picture":"https://images8.alphacoders.com/506/506136.jpg",
+    "price" : 19
+  },
+  {
     "name": "Meowsy",
     "picture": "https://friendsofthepound.com/wp-content/uploads/2017/02/foster-250x250.jpg",
     "species" : "cat",
@@ -48,10 +53,5 @@
       "likes": ["bones"],
       "dislikes": ["vegetables"]
     }
-  },
-  {
-    "name": "The big",
-    "picture":"https://images8.alphacoders.com/506/506136.jpg",
-    "price" : 19
   }
 ]
