@@ -1,5 +1,15 @@
 [
   {
+    "name": "Purrpaws",
+    "picture": "https://i.pinimg.com/474x/54/0d/66/540d664c084dfe50d815876cff5cc31d.jpg",
+    "species" : "cat",
+    "price" : 23,
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
+  },
+  {
     "name": "The big",
     "picture":"https://images8.alphacoders.com/506/506136.jpg",
     "price" : 19
@@ -22,16 +32,6 @@
     "foods": {
       "likes": ["bones", "carrots"],
       "dislikes": ["tuna"]
-    }
-  },
-  {
-    "name": "Purrpaws",
-    "picture": "https://i.pinimg.com/474x/54/0d/66/540d664c084dfe50d815876cff5cc31d.jpg",
-    "species" : "cat",
-    "price" : 23,
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
     }
   },
   {
